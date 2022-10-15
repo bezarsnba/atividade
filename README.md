@@ -2,7 +2,7 @@
 
 
 1 - Branch
-[Branchs](captura_2.png)
+![Branchs](captura_2.png)
 
 2 - Pull
-[Pull Request](captura_1.png) 
+![Pull Request](captura_1.png) 
